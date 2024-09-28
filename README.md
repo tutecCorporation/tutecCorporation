@@ -78,9 +78,9 @@
 
 ### 📫 Contáctame
 
-- 💼 [LinkedIn](#)
-- 💻 [Sitio Web/Portafolio](#)
-- ✉️ [Correo](mailto:tucorreo@ejemplo.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/luis-alberto-huaney-lino-995376211/)
+- 💻 [Sitio Web/Portafolio](https://tutec.pe/portafolio/)
+- ✉️ [Correo](mailto:martinlinohuaney@gmail.com)
 
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100">
