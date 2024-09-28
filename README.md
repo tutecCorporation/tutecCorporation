@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy [Tu Nombre] 👋</h1>
+<h1 align="center">Hola, soy Luis Alberto 👋</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300">
@@ -12,7 +12,7 @@
 
 ### 👨‍🎓 Sobre mí
 
-- 🎓 Actualmente estoy cursando la carrera de [Tu Carrera] en [Tu Universidad].
+- 🎓 Actualmente estoy cursando la carrera de Ingeneria de sistemas e informatica En la Universidad Nacional santiago antunez de mayolo.
 - 💼 Dirijo mi propia empresa de desarrollo de software, **Tutec**, especializada en soluciones innovadoras para negocios.
 - 🔭 Siempre trabajando en nuevos proyectos personales y profesionales para ampliar mis habilidades.
 - 🌱 Actualmente aprendiendo y mejorando mis habilidades en DevOps y Computación en la Nube.
@@ -71,7 +71,7 @@
 
 ### 🎓 Educación
 
-- 🎓 **[Tu Universidad]**, Grado en [Tu Carrera] (Año de finalización)
+- 🎓 **Universidad Nacional Santiago Antunez de Mayolo**, Grado en [Tu Carrera] (Año de finalización)
 - 🏫 **Cursos Online**: Full Stack Development Bootcamp, DevOps con Docker y Kubernetes, PHP Avanzado con Laravel.
 
 ---
